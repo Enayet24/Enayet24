@@ -1,7 +1,7 @@
 ## 👋Hey there, I'm Enayet! 
 - 🎓 I’m currently studying Computer Science in [BRAC UNIVERSITY](https://www.bracu.ac.bd/), Bangladesh
-- 📝 Going through the learning phase in becoming a Software Engineer
-- ⌨️ Passionate about coding
+- 📝 Going through the learning phase in becoming a Data Analyst
+- ⌨️ Passionate about coding and Machine Learning
 
 ## 🌐 My Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/enayetali.labib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/enayet_ali_/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/739910149778702358) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enayet-ali-labib/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enayet.ali3@gmail.com) 
